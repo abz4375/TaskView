@@ -1,5 +1,5 @@
 body {
-	background-image: linear-gradient(213.3deg, rgba(252, 225, 208, 1) 30%, rgb(255, 209, 232) 55.7%, rgb(255, 202, 202) 81.8%);
+	background-image: linear-gradient(213.3deg, rgb(201, 196, 170) 30%, rgb(171, 167, 143) 55.7%, rgb(182, 176, 156) 81.8%);
 }
 
 .card {
@@ -12,7 +12,7 @@ body {
 
 .gantt-box {
 	position: relative;
-	border: 3px solid #73AD21;
+	border: 3px solid black;
 	height: 5px;
 	padding: 50px;
 	text-align: center;
